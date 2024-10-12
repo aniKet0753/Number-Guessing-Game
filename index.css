@@ -1,0 +1,49 @@
+body{
+  text-align: center;
+  margin-top: 5%;
+}
+#aling{
+  display: inline-flex
+}
+#input{
+  border-radius: 15px;
+  height: 30px;
+  
+}
+#hand{
+  margin-top: 2px;
+  margin-right: 5px;
+}
+.btn{
+ background-color: black;
+ color: aliceblue;
+ border-radius: 5px;
+ padding: 7px;
+ font-family: 'Courier New', Courier,;
+ cursor: pointer;
+}
+.btn:hover{
+  background-color: aliceblue;
+  color:black;
+}
+#decom{
+  margin-bottom: 100px;
+  font-family:  Monaco;
+  color:rgb(234, 68, 234);
+  font-size: 35px;
+}
+#text{
+  margin-top:50px;
+  margin-right:10px;
+  color: rgb(25, 208, 225);
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#msg{
+  color: rgb(97, 241, 87);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top:15%;;
+}
+.underline:hover{
+  text-decoration:underline;
+  cursor:pointer;
+}
